@@ -1,0 +1,20 @@
+.pximg{
+    width: 200px;
+    height: 150px;
+}
+.pximgficha{
+    width: 300px;
+    height: 200px;
+}
+.centrar{
+    text-align: center;
+}
+
+.margen1{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+.txtder{
+    text-align: right;
+}
